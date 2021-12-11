@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Cat ipsum 1",
+    "content": "Sit on human cat walks in keyboard refuse to drink water except out of someone's glass so love and coo around boyfriend",
+    "imgURL": "./assets/images/cat-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cat ipsum 2",
+    "content": "Scratch me there, elevator butt bring your owner a dead bird run off table persian cat jump eat fish cough furball into food bowl then scratch owner for a new one but howl uncontrollably for no reason.",
+    "imgURL": "./assets/images/cat-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Dog ipsum 1",
+    "content": "Doggo ipsum floofs lotsa pats blop doggorino pats, long doggo big ol floofs. Snoot floofs tungg super chub puggo very jealous pupper, heckin good boys aqua doggo yapper length boy.",
+    "imgURL": "./assets/images/dog-1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dog ipsum 2",
+    "content": "Mlem aqua doggo heck doggo sub woofer, yapper super chub. borkdrive. stop it fren wow such tempt very jealous pupper. What a nice floof super chub h*ck you are doing me a frighten very good spot lotsa pats, I am bekom fat doggorino sub woofer.",
+    "imgURL": "./assets/images/dog-2.jpg"
+  }
+]
